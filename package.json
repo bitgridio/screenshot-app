@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  , "dependencies": {
+  "dependencies": {
       "express": "https://github.com/visionmedia/express/tarball/master"
     , "jade": "*"
     , "palette": "*"
