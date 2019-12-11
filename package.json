@@ -5,7 +5,10 @@
   , "repository": {
     "type": "git",
     "url": "https://github.com/visionmedia/screenshot-app"
-  }
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
   , "dependencies": {
       "express": "https://github.com/visionmedia/express/tarball/master"
     , "jade": "*"
